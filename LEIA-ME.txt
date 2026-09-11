@@ -1,0 +1,19 @@
+MEU BEM — versão aesthetic ♡
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+- foto.jpeg
+
+A página foi feita para celular e computador.
+A navegação pode ser feita pelos botões, Enter/seta direita ou deslizando para a esquerda no celular.
+
+A música "Singular — ANAVITÓRIA" abre no Spotify pelo botão final. Navegadores normalmente bloqueiam autoplay de música, então não forcei áudio automático.
+
+Para publicar gratuitamente:
+1. Entre no GitHub e crie um repositório público.
+2. Envie todos os arquivos desta pasta.
+3. Vá em Settings > Pages.
+4. Escolha Deploy from a branch > main > / (root) > Save.
+5. O GitHub Pages fornecerá o link.
