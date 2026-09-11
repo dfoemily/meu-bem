@@ -1,19 +1,7 @@
-MEU BEM — versão aesthetic ♡
+NOVA VERSÃO — MEU BEM ♡
 
-Arquivos:
-- index.html
-- style.css
-- script.js
-- foto.jpeg
+Agora o site tem rolagem vertical, fundo rosa, corações flutuantes, nomes que ganham destaque conforme a pessoa rola, transições suaves e música.
 
-A página foi feita para celular e computador.
-A navegação pode ser feita pelos botões, Enter/seta direita ou deslizando para a esquerda no celular.
+A música começa depois do clique em “abrir ♡”, para funcionar no navegador do notebook. O arquivo singular_refrão.mp3 é um trecho editado do primeiro refrão, com fade-in e fade-out.
 
-A música "Singular — ANAVITÓRIA" abre no Spotify pelo botão final. Navegadores normalmente bloqueiam autoplay de música, então não forcei áudio automático.
-
-Para publicar gratuitamente:
-1. Entre no GitHub e crie um repositório público.
-2. Envie todos os arquivos desta pasta.
-3. Vá em Settings > Pages.
-4. Escolha Deploy from a branch > main > / (root) > Save.
-5. O GitHub Pages fornecerá o link.
+Para atualizar o GitHub Pages: substitua os arquivos do repositório pelos arquivos desta pasta. Mantenha todos na raiz.
