@@ -2,6 +2,6 @@ NOVA VERSÃO — MEU BEM ♡
 
 Agora o site tem rolagem vertical, fundo rosa, corações flutuantes, nomes que ganham destaque conforme a pessoa rola, transições suaves e música.
 
-A música começa depois do clique em “abrir ♡”, para funcionar no navegador do notebook. O arquivo singular_refrão.mp3 é um trecho editado do primeiro refrão, com fade-in e fade-out.
+A música começa depois do clique em “abrir ♡”, para funcionar no navegador do notebook. O arquivo singular.mp3 é um trecho editado do primeiro refrão, com fade-in e fade-out.
 
 Para atualizar o GitHub Pages: substitua os arquivos do repositório pelos arquivos desta pasta. Mantenha todos na raiz.
